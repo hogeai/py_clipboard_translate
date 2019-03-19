@@ -1,0 +1,2 @@
+python clip_translator.py
+pause
